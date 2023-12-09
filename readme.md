@@ -4,6 +4,8 @@
 
 ## Introduction
 
+[**Intro Video**](https://youtu.be/MpoOpg4bsOk)
+
 Learning about dynamic data structures like lists, stacks, or queues does not need to be boring. It can be quite a bit of fun. In this assignment, you will be creating a game that uses a stack and a list. The game is called Christmas Queue. You start with multiple stacks of sweet presents. Your job is to move sweets around until every stack contains a single kind of sweet. You can only take out sweets from the top of the stack (well, graphically the bottom, but logically the top). You can only put sweets on top of a stack. Your goal is to sort the sweets with as few moves as possible.
 
 Want to try it? [Here you can try the finished game.](https://christmasqueue.z6.web.core.windows.net/?rows=4&columns=4)
