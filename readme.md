@@ -24,6 +24,13 @@ Your first task is to complete the implementation of the [`Stack` class](./Chris
 
 Next, you must implement the [`ListOfStacks` class](./ChristmasQueue.Collections/List.cs). Again, the code contains detailed descriptions of what the methods must do.
 
+Rules of the exercise:
+
+1. You **must not** change the method signatures.
+2. You **must** use all of the given classes, properties, constructors, and methods.
+3. You **can** add additional classes, properties, constructors, and methods.
+4. You **must** implement all methods, constructors, and properties that contain a `TODO` comment.
+
 ## Automated Unit Tests
 
 To check your implementation, you can run the [unit tests](./ChristmasQueue.Collections.Tests/) included in the solution. _Unit tests_ are automated tests that check if your code works as expected. Up until now, we always tested our code manually. Now it is time that you learn how to automate this process.
@@ -31,3 +38,17 @@ To check your implementation, you can run the [unit tests](./ChristmasQueue.Coll
 You can run the tests by executing `dotnet test` in the solution's root folder. The tests will run and show you the results. Once all tests are successfull, you have completed the assignment and you can try the game.
 
 An alternative to `dotnet test` is the [_Test Explorer_ extension in VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer).
+
+## Starting the Game
+
+You start the game in the same way that you start a console app. Simply run `dotnet run --project ChristmasQueue` in the solution's root folder. You will be given a URL in the console output. Open the URL in your browser and you can start playing.
+
+## Getting Started
+
+If you already know how to work with Git and GitHub, then you can clone this repository and start working on the assignment.
+
+If you are new to Git and GitHub, then you can download the repository as a ZIP file. To do so, click on the green _Code_ button and select _Download ZIP_.
+
+![Download ZIP](download.png)
+
+Once you are done, upload the `Stack.cs` and `List.cs` files to your GitHub repository.
